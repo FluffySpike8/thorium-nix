@@ -31,3 +31,7 @@ Nix flake for Thorium Browser
   # ...
 }
 ```
+
+# Acknowledgments
+
+This project is based on the work of [Tomkoid](https://codeberg.org/tomkoid/thorium-browser-nix).
